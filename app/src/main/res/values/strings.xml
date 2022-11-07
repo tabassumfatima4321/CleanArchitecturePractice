@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CleanArchitecture</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="rider">Partner</string>
+    <string name="logo">Logo</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="INTERNET_ERROR">Can\'t reach server. Either you have no internet connection or server is down.</string>
+    <string name="SOMETHING_WENT_WRONG">Something Went Wrong.</string>
+    <string name="UNEXPECTED_ERROR">Un Expected Error Occurred</string>
+    <string name="NO_RESULT_FOUND">No Result Found</string>
+    <string name="NO_DATA_FOUND">No Data Found</string>
+    <string name="EMPTY_STRING" />
+    <string name="INVALID_STATE">Invalid State</string>
+    <string name="Invalid_username_pass">Invalid username and password</string>
+    <string name="user_name_error">User Name can\'t be empty</string>
+    <string name="password_error">Password can\'t be empty</string>
+    <string name="password_cant_be_less_six_digit">Password can\'t be less than six digits.</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+
+</resources>

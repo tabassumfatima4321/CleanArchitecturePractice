@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.App.Starting" parent="Theme.CleanArchitecture">
+        <item name="windowSplashScreenBackground">#00FF00</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_cart_logo</item>
+        <item name="postSplashScreenTheme">@style/Theme.CleanArchitecture</item>
+    </style>
+</resources>
